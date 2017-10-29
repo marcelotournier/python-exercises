@@ -1,4 +1,4 @@
-# EXERCISES FROM THE "PYTHON FOR EVERYBODY BOOK
+# EXERCISES FROM THE BOOK "PYTHON FOR EVERYBODY"
 
 You can get the book at the website https://www.py4e.com
 
